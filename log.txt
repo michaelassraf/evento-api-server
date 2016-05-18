@@ -1,0 +1,20 @@
+2013-12-07 22:13:03 - INFO  --> 1386454383 Starting actions on 13864542283574979 
+2013-12-07 22:13:03 - INFO  --> 1386454383 Header  
+2013-12-07 22:14:36 - INFO  --> 1386454476 Starting actions on 13864541196711141 
+2013-12-07 22:14:36 - INFO  --> 1386454476 Header  
+2013-12-07 22:14:36 - INFO  --> 1386454476 User object 
+2013-12-07 22:14:38 - INFO  --> 1386454476 Saved user object {"notificationId":"13864544780346937","notificationUserId":"13864515849056687","notificationType":2,"notificationDate":1386454478,"notificationConnectedId":"13864507566743601","notificationFullName":"Michael Assraf","notificationFollow":{"userProfilePicture":null}} 
+2013-12-07 22:14:38 - INFO  --> 1386454476 Sending push to null 
+2013-12-07 22:17:13 - INFO  --> 1386454633 Starting actions on 13864541196711141 
+2013-12-07 22:17:13 - INFO  --> 1386454633 Header  
+2013-12-07 22:17:13 - INFO  --> 1386454633 User object 
+2013-12-07 22:17:31 - INFO  --> 1386454651 Starting actions on 13864541196711141 
+2013-12-07 22:17:31 - INFO  --> 1386454651 Header  
+2013-12-07 22:17:31 - INFO  --> 1386454651 User object 
+2013-12-07 22:18:25 - INFO  --> 1386454705 Starting actions on 13864541196711141 
+2013-12-07 22:18:25 - INFO  --> 1386454705 Header  
+2013-12-07 22:18:25 - INFO  --> 1386454705 User object 
+2013-12-07 22:19:01 - INFO  --> 1386454741 Starting actions on 13864547418707791 
+2013-12-07 22:19:01 - INFO  --> 1386454741 Header "13864547418707791" 
+2013-12-07 22:19:01 - INFO  --> 1386454741 User object 
+2013-12-07 22:19:03 - INFO  --> 1386454741 Sending push to 13864515849056687 
